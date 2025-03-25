@@ -1,0 +1,31 @@
+#movies .card-movie {
+  margin-bottom: 40px;
+}
+#movies .card-movie .thumbnail-movie {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+#movies .card-movie .card-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+#movies .card-movie .movie-title {
+  text-transform: capitalize;
+  color: var(--red);
+}
+#movies .card-movie .movie-views span {
+  margin-left: 4px;
+}
+#movies .card-movie .card-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+#movies .card-movie .movie-duration i {
+  color: var(--red);
+}
+#movies .card-movie .movie-duration span {
+  margin-left: 3px;
+}

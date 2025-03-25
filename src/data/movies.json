@@ -1,0 +1,114 @@
+[
+  {
+    "title" : "Archive",
+    "image" : "img/1.jpg",
+    "year" : "2023",
+    "duration" : "2h 14m",
+    "active": "true"
+  },
+  {
+    "title" : "The Last Of Us",
+    "image" : "img/serie-1.jpg",
+    "year" : "2022",
+    "duration" : "2h 8m",
+    "active": "true"
+  },
+  {
+    "title" : "3 Body Problem",
+    "image" : "img/serie-2.jpg",
+    "year" : "2022",
+    "duration" : "1h 48m",
+    "active": "false"    
+  },  
+  {
+    "title" : "Jumanji - The Next Level",
+    "image" : "img/11.jpg",
+    "year" : "2022",
+    "duration" : "2h 34m",
+    "active": "true"    
+  },
+  {
+    "title" : "John Wick Chapter 4",
+    "image" : "img/13.jpg",
+    "year" : "2022",
+    "duration" : "1h 52m",
+    "active": "true"    
+  },
+  {
+    "title" : "The Gentlemen",
+    "image" : "img/serie-4.jpg",
+    "year" : "2022",
+    "duration" : "1h 36m",
+    "active": "true"    
+  },  
+  {
+    "title" : "1917",
+    "image" : "img/7.jpg",
+    "year" : "2022",
+    "duration" : "2h 49m",
+    "active": "true"    
+  },
+  {
+    "title" : "Sonic The Hedgehog",
+    "image" : "img/17.jpg",
+    "year" : "2022",
+    "duration" : "2h 10m",
+    "active": "true"    
+  },
+  {
+    "title" : "Just Mercy",
+    "image" : "img/8.jpg",
+    "year" : "2022",
+    "duration" : "1h 23m",
+    "active": "false"    
+  },
+  {
+    "title" : "Parasyte - The Grey",
+    "image" : "img/serie-6.jpg",
+    "year" : "2022",
+    "duration" : "2h 12m",
+    "active": "true"    
+  },    
+  {
+    "title" : "The Informer",
+    "image" : "img/9.jpg",
+    "year" : "2022",
+    "duration" : "1h 28m",
+    "active": "false"    
+  },
+  {
+    "title" : "Game of Thrones",
+    "image" : "img/serie-7.jpg",
+    "year" : "2022",
+    "duration" : "2h 7m",
+    "active": "true"    
+  }, 
+  {
+    "title" : "How It Ends",
+    "image" : "img/15.jpg",
+    "year" : "2022",
+    "duration" : "1h 25m",
+    "active": "false"    
+  },
+  {
+    "title" : "The Grudge",
+    "image" : "img/10.jpg",
+    "year" : "2022",
+    "duration" : "1h 58m",
+    "active": "true"    
+  },
+  {
+    "title" : "Vikings Valhalla",
+    "image" : "img/serie-16.jpg",
+    "year" : "2022",
+    "duration" : "3h 10m",
+    "active": "true"    
+  },    
+  {
+    "title" : "Joker",
+    "image" : "img/20.jpg",
+    "year" : "2022",
+    "duration" : "1h 48m",
+    "active": "true"    
+  }                             
+]

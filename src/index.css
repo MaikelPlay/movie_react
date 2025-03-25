@@ -1,0 +1,17 @@
+:root {
+  --bg-color: #01111b;
+  --white: #fff;
+  --red: #e90101;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: var(--white);
+}
+
+#movies {
+  padding: 160px 0 40px 0;
+  background-color: var(--bg-color);  
+}
+
+
